@@ -21,14 +21,6 @@ const optionsList = [
     label: "Account Name",
     value: "account_name",
   },
-  {
-    label: "City",
-    value: "city",
-  },
-  {
-    label: "State",
-    value: "state",
-  },
 ];
 
 const ListItems = (props) => {
