@@ -1,3 +1,3 @@
 export default Button = () => {
-  return <button></button>;
+  return <button>Submit</button>;
 };
